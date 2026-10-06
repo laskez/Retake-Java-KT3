@@ -8,7 +8,7 @@
 
 ## Что демонстрируется
 
-- Spring MVC: Controller → Service → Repository
+- Spring MVC: Controller -> Service -> Repository
 - Spring Data JPA + Hibernate для работы с БД
 - База данных H2 (файловая)
 - Связь `@ManyToOne` между задачами и категориями
